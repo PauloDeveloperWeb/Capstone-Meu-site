@@ -101,6 +101,9 @@ height: 10vh;
         font-size: 1.5rem;
     } 
     
+    .descr{
+        width: 30%;
+    }
     
 
   }
@@ -132,8 +135,7 @@ height: 10vh;
 .descr{
     font-family: 'Merriweather', serif; 
     text-align: justify;  
-    width: 60%;
-    width: 50vh;
+    width: 60%;   
     margin-top: 50px;
     margin-bottom: 50px;   
     color:#613805;   
